@@ -1,8 +1,2 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
-
-Sitemap: https://6-3-2018-05-38-10-treemast.local/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Disallow: /
